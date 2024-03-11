@@ -12,6 +12,10 @@ public class Main {
         Reverse obj4=new Reverse();
         obj4.Reverse();
 
+        IntReverise obj5=new IntReverise();
+        obj5.intReverise();
+
+
 
 
 

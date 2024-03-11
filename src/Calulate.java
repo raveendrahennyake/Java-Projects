@@ -115,14 +115,53 @@ class Reverse {
         }
 
         System.out.println("Reversed string is " + reversedName);
-
     }
 
     public static void main(String[] args) {
 
     }
-
 }
+
+class revirseNumber {
+     void _rev_number () {
+         Scanner x=new Scanner(System.in);
+         System.out.println("Enter your number");
+         int _num=x.nextInt();
+
+         Integer Originalname=_num;
+         int i=0;
+
+         }
+     }
+//Reverses a number
+class IntReverise {
+    static Scanner x=new Scanner(System.in);
+     void intReverise() {
+
+             System.out.println("Enter your number");
+             int _Reve_num=x.nextInt();
+
+             int Answer=0;
+
+             while (_Reve_num>0) {
+
+                 int Lastnum=_Reve_num% 10 ;
+
+                 Answer=Answer*10+Lastnum;
+                 _Reve_num /= 10;
+
+             }
+             System.out.println("answer is "+Answer);
+
+         }
+    public static void main(String[] args) {
+
+    }
+
+     }
+
+
+
 
 
 

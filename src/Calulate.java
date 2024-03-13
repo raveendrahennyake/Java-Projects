@@ -56,7 +56,7 @@ class Parent {
 static int sum=0;
 static int Average=1;
     public void findsum () {
-        int x []={1,2,3,4,5,6,7,8,9};
+        int x []={1,2,3,4,5,6,7,8,};
         for (int i=0;i<x.length;i+=1){
             sum=sum+x[i];
 

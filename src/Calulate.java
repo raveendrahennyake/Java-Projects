@@ -52,7 +52,6 @@ import java.util.Scanner;
 }
 
 //Find Sum and Average of Array Elements
-class Parent {
 static int sum=0;
 static int Average=1;
     public void findsum () {
@@ -67,10 +66,8 @@ static int Average=1;
         System.out.println("Avarage is "+Average);
     }
     public static void main(String[] args) {
-
-
     }
-}
+
 //Find Prime Numbers in Java
 
 

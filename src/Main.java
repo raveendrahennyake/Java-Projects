@@ -4,7 +4,7 @@ public class Main {
         obj1.marks();
 
          Calculate obj2=new Calculate ();
-        obj2.findsum();
+         obj2.findsum();
 
         Boys obj3=new Boys ();
         obj3.prime_number();

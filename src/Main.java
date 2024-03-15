@@ -6,13 +6,13 @@ public class Main {
          Calculate obj2=new Calculate ();
          obj2.findsum();
 
-        Boys obj3=new Boys ();
+        Calculate obj3=new Calculate ();
         obj3.prime_number();
 
-        Reverse obj4=new Reverse();
+        Calculate obj4=new Calculate();
         obj4.Reverse();
 
-        IntReverise obj5=new IntReverise();
+        Calculate obj5=new Calculate();
         obj5.intReverise();
 
 

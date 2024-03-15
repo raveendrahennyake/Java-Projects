@@ -69,9 +69,6 @@ static int Average=1;
     }
 
 //Find Prime Numbers in Java
-
-
- class Boys {
      public void prime_number() {
          Scanner y = new Scanner(System.in);
          System.out.println("Enter your number");
@@ -93,12 +90,8 @@ static int Average=1;
              }
          }
      }
- }
-
+ 
  //Reverse a String in Java
-
-
-class Reverse {
     void  Reverse () {
 
         Scanner scanner = new Scanner(System.in);
@@ -110,28 +103,18 @@ class Reverse {
         for (int i = originalName.length() - 1; i >= 0; i--) {
             reversedName += originalName.charAt(i);
         }
-
         System.out.println("Reversed string is " + reversedName);
     }
-
     public static void main(String[] args) {
-
     }
-}
-
-class revirseNumber {
      void _rev_number () {
          Scanner x=new Scanner(System.in);
          System.out.println("Enter your number");
          int _num=x.nextInt();
-
          Integer Originalname=_num;
          int i=0;
-
-         }
-     }
+         }     
 //Reverses a number
-class IntReverise {
     static Scanner x=new Scanner(System.in);
      void intReverise() {
 

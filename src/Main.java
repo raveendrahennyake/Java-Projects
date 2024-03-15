@@ -3,7 +3,7 @@ public class Main {
         Calculate obj1=new Calculate();
         obj1.marks();
 
-        Parent obj2=new Parent ();
+         Calculate obj2=new Calculate ();
         obj2.findsum();
 
         Boys obj3=new Boys ();

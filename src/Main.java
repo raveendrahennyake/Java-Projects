@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Calculate obj1=new Calculate ();
+       // Calculate obj1=new Calculate ();
         obj1.marks();
 
         Calculate obj2=new Calculate ();

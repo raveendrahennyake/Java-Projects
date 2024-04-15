@@ -20,4 +20,9 @@ public  class Message {
     }
 }
 
+//Asympotic Notatons
+// n(n+1)/2=o(n^2)
+
+//in place Sortine Algoridams
+
 
